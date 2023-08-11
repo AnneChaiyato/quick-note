@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/quick-note/static/js/main.cdcd72ea.js",
+    "index.html": "/quick-note/index.html",
+    "main.cdcd72ea.js.map": "/quick-note/static/js/main.cdcd72ea.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cdcd72ea.js"
+  ]
+}
